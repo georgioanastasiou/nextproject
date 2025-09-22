@@ -126,7 +126,7 @@
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--secondary);
+  background: rgb(71, 71, 201);
 }
 ::-webkit-thumb {
   background: var(--primary);

@@ -1,3 +1,4 @@
+
 export const featuredPosts = [
     {
         id: "1",
@@ -6,7 +7,7 @@ export const featuredPosts = [
             "Exploring how less can truly be more in the digital age, and why constraints breed creativity",
         category: "Design",
         date: "Dec 15, 2024",
-        image: "https://cdn.prod.website-files.com/65a1b21a5fcbab501a6f2d5c/67653ad4d8457a2330698255_66c079752bfcb1caeb7cbf3b_66c0794f34a6017c19010f82_digital%252520illu.webp",
+        image: "/images/1.jpeg"
     },
     {
         id: "2",
@@ -15,7 +16,7 @@ export const featuredPosts = [
             "Exploring how less can truly be more in the digital age, and why constraints breed creativity",
         category: "Design",
         date: "Dec 15, 2024",
-        image: "https://cdn.prod.website-files.com/65a1b21a5fcbab501a6f2d5c/67653ad4d8457a2330698255_66c079752bfcb1caeb7cbf3b_66c0794f34a6017c19010f82_digital%252520illu.webp",
+        image: "/images/2.jpeg"
     },
     {
         id: "3",
@@ -24,7 +25,7 @@ export const featuredPosts = [
             "Exploring how less can truly be more in the digital age, and why constraints breed creativity",
         category: "Design",
         date: "Dec 15, 2024",
-        image: "https://cdn.prod.website-files.com/65a1b21a5fcbab501a6f2d5c/67653ad4d8457a2330698255_66c079752bfcb1caeb7cbf3b_66c0794f34a6017c19010f82_digital%252520illu.webp",
+        image: "/images/3.jpeg"
     },
     {
         id: "4",
@@ -33,7 +34,7 @@ export const featuredPosts = [
             "Exploring how less can truly be more in the digital age, and why constraints breed creativity",
         category: "Design",
         date: "Dec 15, 2024",
-        image: "https://cdn.prod.website-files.com/65a1b21a5fcbab501a6f2d5c/67653ad4d8457a2330698255_66c079752bfcb1caeb7cbf3b_66c0794f34a6017c19010f82_digital%252520illu.webp",
+        image: "/images/4.jpeg"
     },
 ]
 
